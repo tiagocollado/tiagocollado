@@ -6,7 +6,7 @@ UX/UI Design · Frontend Development · Argentina
 
 ---
 
-4th-year student of the B.S. in Multimedia Technology (Universidad Maimónides), focused on web design and user experience. I prototype in Figma and build in React.
+4th-year student of the B.S. in Multimedia Technology at Universidad Maimónides, focused on web design and user experience. I prototype in Figma and build in React.
 
 ---
 
