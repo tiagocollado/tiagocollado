@@ -1,35 +1,35 @@
-# Hola, soy Tiago 👋
+# Hi, I'm Tiago 👋
 
-Diseño UX/UI · Desarrollo Frontend · Argentina
+UX/UI Design · Frontend Development · Argentina
 
 [🌐 Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
 
 ---
 
-Estudiante de 4to año de la Lic. en Tecnología Multimedial (Universidad Maimónides), orientado al diseño web y la experiencia de usuario. Prototipo en Figma y construyo en React.
+4th-year student of the B.S. in Multimedia Technology (Universidad Maimónides), focused on web design and user experience. I prototype in Figma and build in React.
 
 ---
 
-## Proyectos
+## Projects
 
 **🎸 El Ritual del Tono**
-Para guitarristas que quieren saber exactamente qué tono usa su guitarrista favorito.
+For guitarists who want to know exactly what tone their favorite guitarist is using.
 `React · Next.js · Node · Express · MongoDB`
-[→ Ver proyecto](https://el-ritual-del-tono.vercel.app/)
+[→ Live project](https://el-ritual-del-tono.vercel.app/)
 
 ---
 
-**👟 Retro Kicks** *(en colaboración)*
-Tienda de zapatillas retro — urbanas y para otras disciplinas.
+**👟 Retro Kicks** *(collaborative project)*
+Retro sneaker store — streetwear and sport.
 `React · Next.js · Node · Express · MongoDB · Figma`
-[→ Ver proyecto](https://retro-kicks.vercel.app/)
+[→ Live project](https://retro-kicks.vercel.app/)
 
 ---
 
 **🛸 Rick & Morty Explorer**
-Base de datos galáctica construida por un estudiante, usando la API oficial de Rick & Morty.
+A galactic database built by a student, using the official Rick & Morty API.
 `React · Next.js · Tailwind CSS · Rick & Morty API`
-[→ Ver proyecto](https://rick-morty-next-dashboard.vercel.app/)
+[→ Live project](https://rick-morty-next-dashboard.vercel.app/)
 
 ---
 
@@ -37,14 +37,14 @@ Base de datos galáctica construida por un estudiante, usando la API oficial de 
 
 | | |
 |---|---|
-| **Diseño** | Figma · Sistemas de Diseño · UX Research · Pruebas de usabilidad |
+| **Design** | Figma · Design Systems · UX Research · Usability Testing |
 | **Frontend** | React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind |
 | **Backend** | Node.js · Express · MongoDB |
 | **CMS** | WordPress · Shopify |
-| **Herramientas** | Adobe CC · Git · GitHub · Vercel · IA aplicada al diseño |
+| **Tools** | Adobe CC · Git · GitHub · Vercel · AI-assisted design |
 
 ---
 
-## Contacto
+## Contact
 
 📩 tiago.collado@gmail.com · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [Portfolio](#)
