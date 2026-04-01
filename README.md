@@ -1,38 +1,35 @@
-# Hola, soy Tiago Collado 👋
+# Hola, soy Tiago 👋
 
-Diseño UX/UI · Desarrollo Frontend
-📍 Buenos Aires, Argentina · 4to año, Lic. en Tecnología Multimedial — Universidad Maimónides
+Diseño UX/UI · Desarrollo Frontend · Argentina
 
 [🌐 Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
 
 ---
 
-Diseño la interfaz en Figma. La construyo en React. El mismo cerebro, las dos etapas del proceso.
-
-No entrego un prototipo para que otro lo interprete. Lo que diseño es lo que aparece en pantalla.
+Estudiante de 4to año de la Lic. en Tecnología Multimedial (Universidad Maimónides), orientado al diseño web y la experiencia de usuario. Prototipo en Figma y construyo en React.
 
 ---
 
 ## Proyectos
 
 **🎸 El Ritual del Tono**
-Plataforma para guitarristas. Diseño de la arquitectura de información, sistema de componentes en Figma e implementación full stack.
-`React · Node.js · MongoDB · Figma`
-[→ Ver proyecto](#)
+Para guitarristas que quieren saber exactamente qué tono usa su guitarrista favorito.
+`React · Next.js · Node · Express · MongoDB`
+[→ Ver proyecto](https://el-ritual-del-tono.vercel.app/)
 
 ---
 
-**🍽️ App de gestión gastronómica**
-Sistema para operaciones de restaurantes. UI pensada para usuarios no técnicos — flujo de pedidos e inventario con mínima curva de aprendizaje.
-`React · Node.js · MongoDB`
-[→ Ver proyecto](#)
+**👟 Retro Kicks** *(en colaboración)*
+Tienda de zapatillas retro — urbanas y para otras disciplinas.
+`React · Next.js · Node · Express · MongoDB · Figma`
+[→ Ver proyecto](https://retro-kicks.vercel.app/)
 
 ---
 
-**⚽ Plataforma deportiva multimarca**
-Sistema de diseño escalable que unifica múltiples marcas bajo una misma arquitectura visual. De Figma a React.
-`React · Figma · Sistema de Diseño`
-[→ Ver proyecto](#)
+**🛸 Rick & Morty Explorer**
+Base de datos galáctica construida por un estudiante, usando la API oficial de Rick & Morty.
+`React · Next.js · Tailwind CSS · Rick & Morty API`
+[→ Ver proyecto](https://rick-morty-next-dashboard.vercel.app/)
 
 ---
 
@@ -42,8 +39,9 @@ Sistema de diseño escalable que unifica múltiples marcas bajo una misma arquit
 |---|---|
 | **Diseño** | Figma · Sistemas de Diseño · UX Research · Pruebas de usabilidad |
 | **Frontend** | React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind |
+| **Backend** | Node.js · Express · MongoDB |
 | **CMS** | WordPress · Shopify |
-| **Otras herramientas** | Adobe CC · Git · GitHub · Vercel · IA aplicada al diseño |
+| **Herramientas** | Adobe CC · Git · GitHub · Vercel · IA aplicada al diseño |
 
 ---
 
