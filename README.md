@@ -1,45 +1,52 @@
-# Hola, soy Tiago 👋
+# Hola, soy Tiago Collado 👋
 
-🧠 **Estudiante avanzado de la Lic. en Tecnología Multimedial**
-📍 Basado en Buenos Aires, Argentina
-🔗 [Portfolio](#) · [LinkedIn](#) · [Behance](#)
+Diseño UX/UI · Desarrollo Frontend
+📍 Buenos Aires, Argentina · 4to año, Lic. en Tecnología Multimedial — Universidad Maimónides
 
-## 🧑‍💻 Sobre Mí
+[🌐 Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
 
-Soy un perfil híbrido especializado en el **Diseño UX/UI y el Desarrollo Web**. Mi enfoque central es construir puentes entre la experiencia de usuario (Figma) y la implementación técnica, asegurando que el diseño sea escalable, funcional y estéticamente impecable.
+---
 
-* Actualmente estoy cursando mis últimos años en la **Universidad Maimónides**, perfeccionando la arquitectura de interfaces y el desarrollo Full Stack.
-* Más allá del código y los vectores, aplico la misma disciplina en el gimnasio y en la producción musical.
-* Creo firmemente que el buen diseño no solo se ve bien, sino que resuelve problemas de lógica de negocio.
+Diseño la interfaz en Figma. La construyo en React. El mismo cerebro, las dos etapas del proceso.
 
-## 🔭 Qué estoy construyendo
+No entrego un prototipo para que otro lo interprete. Lo que diseño es lo que aparece en pantalla.
 
-* Diseñando sistemas multimarca y prototipando plataformas sociales enfocadas en el ámbito deportivo.
-* Desarrollando soluciones web para la gestión del sector gastronómico y herramientas para músicos (como plataformas *Full Stack* para guitarristas).
-* Consolidando mi dominio en frameworks modernos de React y optimización de flujos de trabajo en WordPress.
+---
 
-## ⚙️ Stack Tecnológico
+## Proyectos
 
-**🎨 Diseño y Prototipado**
-* Figma / Adobe Creative Suite
-* Diseño de Interfaces (UI) y Experiencia de Usuario (UX)
-* Sistemas de Diseño y Wireframing
+**🎸 El Ritual del Tono**
+Plataforma para guitarristas. Diseño de la arquitectura de información, sistema de componentes en Figma e implementación full stack.
+`React · Node.js · MongoDB · Figma`
+[→ Ver proyecto](#)
 
-**💻 Desarrollo Frontend & Backend**
-* React.js / Next.js
-* JavaScript / HTML5 / CSS3 / Tailwind CSS
-* Node.js
-* Bases de Datos: MongoDB
-* CMS: WordPress
+---
 
-**🧰 Herramientas**
-* Git & GitHub
-* Vercel
+**🍽️ App de gestión gastronómica**
+Sistema para operaciones de restaurantes. UI pensada para usuarios no técnicos — flujo de pedidos e inventario con mínima curva de aprendizaje.
+`React · Node.js · MongoDB`
+[→ Ver proyecto](#)
 
-## 🤝 Contacto
+---
 
-Siempre estoy abierto a discutir sobre diseño de interfaces, arquitectura web o proyectos que requieran una mirada analítica y creativa.
+**⚽ Plataforma deportiva multimarca**
+Sistema de diseño escalable que unifica múltiples marcas bajo una misma arquitectura visual. De Figma a React.
+`React · Figma · Sistema de Diseño`
+[→ Ver proyecto](#)
 
-📩 **Email:** [tiago.collado@gmail.com]
-💼 **LinkedIn:** [https://www.linkedin.com/in/tiagocollado/]
-🎨 **Behance:** [https://www.behance.net/tiagocollad0]
+---
+
+## Stack
+
+| | |
+|---|---|
+| **Diseño** | Figma · Sistemas de Diseño · UX Research · Pruebas de usabilidad |
+| **Frontend** | React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind |
+| **CMS** | WordPress · Shopify |
+| **Otras herramientas** | Adobe CC · Git · GitHub · Vercel · IA aplicada al diseño |
+
+---
+
+## Contacto
+
+📩 tiago.collado@gmail.com · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [Portfolio](#)
