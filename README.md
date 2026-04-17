@@ -2,7 +2,7 @@
 
 UX/UI Design · Frontend Development · Argentina
 
-[🌐 Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
+[🌐 Portfolio](# ) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
 
 ---
 
