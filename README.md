@@ -2,7 +2,7 @@
 
 UX/UI Design · Frontend Development · Argentina
 
-[🌐 Portfolio](# ) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
+[🌐 Portfolio](https://tiagocollado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
 
 ---
 
@@ -47,4 +47,4 @@ A galactic database built by a student, using the official Rick & Morty API.
 
 ## Contact
 
-📩 tiago.collado@gmail.com · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [Portfolio](#)
+📩 tiago.collado@gmail.com · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [Portfolio](https://tiagocollado.vercel.app/)
