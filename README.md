@@ -1,50 +1,22 @@
 # Hi, I'm Tiago 👋
 
-UX/UI Design · Frontend Development · Argentina
+**Frontend Developer & UX/UI Designer** · Argentina
 
-[🌐 Portfolio](https://tiagocollado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · tiago.collado@gmail.com
+B.S. in Multimedia Technology at Universidad Maimónides (thesis in progress). I design in Figma and build interfaces in React.
 
----
-
-4th-year student of the B.S. in Multimedia Technology at Universidad Maimónides, focused on web design and user experience. I prototype in Figma and build in React.
-
----
+[🌐 Portfolio](https://tiagocollado.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [tiago.collado@gmail.com](mailto:tiago.collado@gmail.com)
 
 ## Projects
 
-**🎸 El Ritual del Tono**
-For guitarists who want to know exactly what tone their favorite guitarist is using.
-`React · Next.js · Node · Express · MongoDB`
-[→ Live project](https://el-ritual-del-tono.vercel.app/)
-
----
-
-**👟 Retro Kicks** *(collaborative project)*
-Retro sneaker store — streetwear and sport.
-`React · Next.js · Node · Express · MongoDB · Figma`
-[→ Live project](https://retro-kicks.vercel.app/)
-
----
-
-**🛸 Rick & Morty Explorer**
-A galactic database built by a student, using the official Rick & Morty API.
-`React · Next.js · Tailwind CSS · Rick & Morty API`
-[→ Live project](https://rick-morty-next-dashboard.vercel.app/)
-
----
+- 🏀 **[Reactá](https://reacta-nu.vercel.app)**: basketball decision-training web app. Players watch real clips paused at the key moment and pick the right play against the clock; coaches get their own panel. `Supabase · Vercel · Figma`
+- 🎸 **[El Ritual del Tono](https://el-ritual-del-tono.vercel.app/)**: find the exact tone your favorite guitarist uses. `Next.js · Node · MongoDB`
+- 👟 **[Retro Kicks](https://retro-kicks.vercel.app/)**: retro sneaker store, built as a team. `Next.js · Node · MongoDB · Figma`
+- 🛸 **[Rick & Morty Explorer](https://rick-morty-next-dashboard.vercel.app/)**: galactic database using the official API. `Next.js · Tailwind`
 
 ## Stack
 
-| | |
-|---|---|
-| **Design** | Figma · Design Systems · UX Research · Usability Testing |
-| **Frontend** | React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind |
-| **Backend** | Node.js · Express · MongoDB |
-| **CMS** | WordPress · Shopify |
-| **Tools** | Adobe CC · Git · GitHub · Vercel · AI-assisted design |
-
----
-
-## Contact
-
-📩 tiago.collado@gmail.com · [LinkedIn](https://www.linkedin.com/in/tiagocollado/) · [Portfolio](https://tiagocollado.vercel.app/)
+**Frontend:** React · Next.js · JavaScript · HTML · CSS · Tailwind
+**Design:** Figma · Design Systems · UX Research · Usability Testing
+**Backend:** Node.js · Express · MongoDB · Supabase
+**CMS:** WordPress · Shopify
+**Tools:** Adobe CC · Git · Vercel
